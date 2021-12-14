@@ -27,13 +27,13 @@ p {
 
 
 .menuItemsContainer{
-   
+  
     position: relative;
     margin: 10px;
 }
 
 .IndividualItemContainer {
-  
+  width: 100%;
   position: relative;
   
   
